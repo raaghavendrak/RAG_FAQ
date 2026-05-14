@@ -3,5 +3,6 @@ langchain-community
 faiss-cpu
 python-dotenv
 streamlit
+sentence_transformers
 langchain-google-genai
 google-generativeai
